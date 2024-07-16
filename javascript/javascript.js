@@ -57,9 +57,13 @@
 
 //========================================================================================
 
-const arr11 = ["apple","orange","watermelon"];
-const arr22 = ["green apple","grapes","strawberry"];
-const fruits = arr11.concat(arr22)
-console.log(fruits);
+// 14) merging the arrays
+
+// const arr11 = ["apple","orange","watermelon"];
+// const arr22 = ["green apple","grapes","strawberry"];
+// const fruits = arr11.concat(arr22)
+// console.log(fruits);
+
+//======================================================================================
 
 
